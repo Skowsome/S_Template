@@ -1,0 +1,39 @@
+body{
+    background-color:antiquewhite;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.container{
+    width: 525px;
+    padding: 10px;
+    border: 10px solid white;
+    box-shadow: 10 20px, 20px, rgb(241, 239, 239);
+    display: block; 
+    text-align: center;
+    background-Color: White;
+    border-radius: 5px;
+}
+
+.row {
+    display: flex;
+    flex-Direction: row;
+    justify-Content: center;
+    align-Items: center; 
+}
+
+.footer {
+    display: block; 
+    padding-Left: 40px; 
+    text-Align: left; 
+    justify-Content: left; 
+    font-Size: 12px; 
+    font-Weight: bold;
+    color: grey;
+}
+
+
+
+
